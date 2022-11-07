@@ -9,4 +9,4 @@ O Objetivo desse servidor é armazena informações sobre 'bolões' da aplicaç�
 - mermaid js
 
 # Web
-https://github.com/BrunoCezarGuimaraes/NLW-Copa-Server
+https://github.com/BrunoCezarGuimaraes/NLW-Copa-Web
